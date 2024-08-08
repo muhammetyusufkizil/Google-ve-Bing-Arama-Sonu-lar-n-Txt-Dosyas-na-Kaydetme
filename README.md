@@ -9,7 +9,7 @@ Nasıl Çalışır?
 Projeyi bilgisayarınıza indirin veya klonlayın.
 Pyton yüklü olduğundan emin olun.
 Proje klasöründe bir terminal açın.
-python arama_sonucu_kaydet.py komutunu çalıştırın.
+python start.py komutunu çalıştırın.
 Ekrana aramak istediğiniz kelimeyi girin ve enter tuşuna basın.
 Program, kelimeyi Google ve Bing arama motorlarında arayacak ve çıkan linkleri kelime.txt adlı bir dosyaya kaydedecek.
 Program, işlem tamamlandığında size bildirecek.
